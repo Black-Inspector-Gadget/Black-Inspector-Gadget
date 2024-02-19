@@ -6,11 +6,11 @@
 - 😄 Pronouns: They, Them, Theirs
 - ⚡ Fun fact: Founder of Black Girls Skate
 
-
 <p align="right">
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/4214976](https://stackoverflow.com/users/23443991/dj-gooden)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="[https://instagram.com/gautamkrishnar](https://www.instagram.com/black.inspector.gadget?igsh=MWh0b2Q0b3N4cHc4Zg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/deah-jonae-g-a3a79b59" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/linked-in-image.svg" alt="D.J. Gooden" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23443991/dj-gooden" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/stack-overflow.svg" alt="D.J. Gooden" height="30" width="40" /></a>
+<a href="https://www.instagram.com/black.inspector.gadget?igsh=MWh0b2Q0b3N4cHc4Zg%3D%3D" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/instagram.svg" alt="D.J. Gooden" height="30" width="40" /></a>
+
 
 
 <!---
