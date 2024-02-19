@@ -14,27 +14,29 @@
 ### Languages
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/python.svg" alt="python" style="vertical-align:top; margin:4px">
   
 
 
 ### Skills
 
   <p align="left">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
 
 
 ### Other Skills
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+ <p align="left">
+  <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/c.svg" alt="c" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/c%2B%2B.svg" alt="c++" style="vertical-align:top; margin:4px">  
+  <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Linux.svg" alt="linux" style="vertical-align:top; margin:4px">
+   
 
 
 
