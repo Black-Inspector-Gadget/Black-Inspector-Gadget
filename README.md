@@ -1,5 +1,3 @@
-<img align="right" alt="Header Gif" width="400" src="[https://drive.google.com/file/d/1Ax-FkWQAUYgWkkbkjiBxEsx8fXLNHTGo/view?usp=sharing](https://github.com/Black-Inspector-Gadget/content/blob/main/header.gif)">
-
 - 👋 Hi, I’m @Black-Inspector-Gadget
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning Python!
