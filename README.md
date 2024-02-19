@@ -38,7 +38,7 @@
 
 
 
-<! Bottom icons >
+<!--- Bottom icons --->
 
 <p align="right">
  <a href="https://www.linkedin.com/in/deah-jonae-g-a3a79b59/" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/linked-in-image.svg" alt="D.J. Gooden" height="30" width="40" /></a>
