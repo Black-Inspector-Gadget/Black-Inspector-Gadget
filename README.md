@@ -4,11 +4,11 @@
 
 ### About
 
-- 👋 Hi, I’m D.J. Gooden a.k.a. @Black-Inspector-Gadget
-- 👀 I’m interested in learning to code at the highest level!
-- 🌱 I’m currently learning/practicing Python!
-- 😄 Pronouns: They, Them, Theirs
-- ⚡ Fun fact: Founder of Black Girls Skate
+- 👋🏿 Hi, I’m D.J. Gooden a.k.a. @Black-Inspector-Gadget
+- 🧑🏾‍💻 I’m interested in learning to code at the highest level!
+- 🐍 I’m currently learning/practicing Python!
+- 🧞 Pronouns: They, Them, Theirs
+- 🧾 Fun fact: Founder of Black Girls Skate
 
 
 ### Languages
