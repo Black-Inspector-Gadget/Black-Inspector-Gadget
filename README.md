@@ -58,7 +58,7 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 <a href="https://www.blackgirlsskate.org/" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/bgs.png" alt="Black Girls Skate" height="40" width="40" /></a> 
 <a href="https://stackoverflow.com/users/23443991/dj-gooden" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/stack-overflow.svg" alt="D.J. Gooden" height="30" width="40" /></a>
 <a href="https://www.instagram.com/black.inspector.gadget?igsh=MWh0b2Q0b3N4cHc4Zg%3D%3D" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/instagram.svg" alt="D.J. Gooden" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/black_inspector_gadget" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/twitch.png" alt="Twitch" height="30" width="60" /></a> 
+<a href="https://www.twitch.tv/black_inspector_gadget" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/twitch%20logo.png" alt="Twitch" height="30" width="30" /></a> 
 <a href="https://www.hackster.io/Black_Inspector_Gadget/beat-the-heat-car-seat-a6ada0" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/hacksterio.png" alt="Beat The Heat Carseat" height="30" width="60" /></a> 
 
 
