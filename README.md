@@ -46,7 +46,7 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 
    
 ### Projects
-#### [- Beat The Heat CarSeat](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat/tree/main/Device%20Code)  
+#### [- Beat The Heat CarSeat](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat)  
 
 
 
