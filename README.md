@@ -41,7 +41,13 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/c.svg" alt="c" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/c%2B%2B.svg" alt="c++" style="vertical-align:top; margin:4px">  
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Linux.svg" alt="linux" style="vertical-align:top; margin:4px">
+
+
+
    
+### Projects
+#### [- Beat The Heat CarSeat](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat/tree/main/Device%20Code)  
+
 
 
 
