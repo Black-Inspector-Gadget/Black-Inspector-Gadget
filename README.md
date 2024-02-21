@@ -46,12 +46,13 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 
 ##   
 ### Projects
-#### [- Beat The Heat CarSeat](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat)  
+
 #### [- 'Shuv It' vs 'Ollie' NFT: Illustration ](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32995396286751114035988550792975481396363927005753182805942965736422653296641) Designed with Unity. Available on OpenSea.  
-
-
-
 <img src="https://dl.openseauserdata.com/cache/originImage/files/6f4de1d8401fb7d1621bff43cfada047.gif" />
+
+
+#### [- Beat The Heat CarSeat ](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat)  Designed with C++ and Arduino.
+<img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Beat%20The%20Heat%20CarSeat/MAIN.jpeg" />
 
 
 
