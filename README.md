@@ -52,7 +52,14 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 
 
 #### [- Beat The Heat CarSeat ](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat)  Designed with C++ and Arduino.
-<img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Beat%20The%20Heat%20CarSeat/MAIN.jpeg" />
+<img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Beat%20The%20Heat%20CarSeat/MAIN.jpeg" height="340" width="475" />
+
+
+
+     
+##   
+# Donate
+<img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Donate/bitcoin.png" alt="D.J. Gooden" height="340" width="370"/>
 
 
 
