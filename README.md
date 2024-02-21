@@ -52,7 +52,7 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 
 
 #### [- Beat The Heat CarSeat ](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat)  Designed with C++ and Arduino.
-<img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Beat%20The%20Heat%20CarSeat/MAIN.jpeg" height="235" width="345" />
+<img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Beat%20The%20Heat%20CarSeat/MAIN.jpeg" height="215" width="345" />
 
 
 
