@@ -9,7 +9,6 @@
 - 🐍 I’m currently learning/practicing Python!
 - 🧞 Pronouns: They, Them, Theirs
 - 🧾 Fun fact: Founder of Black Girls Skate. Inventor of "Beat The Heat Carseat", a project awarded by Intel and Hackster.io. 
-- 🌟 [My Recommendations](https://www.linkedin.com/in/deah-jonae-g-a3a79b59/details/recommendations/?detailScreenTabIndex=0)
 
 ##
 ### Bio
