@@ -1,7 +1,7 @@
 <img src="https://github.com/Black-Inspector-Gadget/content/blob/main/header.gif" />
 
 
-
+##
 ### About
 
 - 👋🏿 Hi, I’m D.J. Gooden a.k.a. @Black-Inspector-Gadget
@@ -11,11 +11,11 @@
 - 🧾 Fun fact: Founder of Black Girls Skate. Inventor of "Beat The Heat Carseat", a project awarded by Intel and Hackster.io. 
 - 🌟 [My Recommendations](https://www.linkedin.com/in/deah-jonae-g-a3a79b59/details/recommendations/?detailScreenTabIndex=0)
 
-
+##
 ### Bio
 Engineer with concrete understanding of circuit theory, computer architecture, and hardware/software design. Background includes computer engineering, robotics, and mathematics. Exceptionally detail-oriented and energetic. Possess the diverse, analytical, and technical abilities required for engineering innovative, and responsible solutions, as well as advanced problem solving and interpersonal skills. Founder of Black Girls Skate, a non-profit devoted to creating equity, visibility and safety for skaters who identify as Black, African, or Of Color and/or women, differently-abled, or LGBTQ+. Black Girls Skate is specifically invested in amplifying skaters across the Black diaspora with skating activities that include skateboarding, longboarding, roller skating, wcmx, adaptive skating, and ice skating.
 
-
+##
 ### Languages
 
 <p align="left">
@@ -24,7 +24,7 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/python.svg" alt="python" style="vertical-align:top; margin:4px">
   
 
-
+##
 ### Skills
 
   <p align="left">
@@ -34,7 +34,7 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
 
-
+##
 ### Other Skills
 
  <p align="left">
@@ -44,9 +44,14 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 
 
 
-   
+##   
 ### Projects
 #### [- Beat The Heat CarSeat](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat)  
+#### [- 'Shuv It' vs 'Ollie' NFT: Illustration ](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32995396286751114035988550792975481396363927005753182805942965736422653296641) Designed with Unity. Available on OpenSea.  
+
+
+
+<img src="https://dl.openseauserdata.com/cache/originImage/files/6f4de1d8401fb7d1621bff43cfada047.gif" />
 
 
 
