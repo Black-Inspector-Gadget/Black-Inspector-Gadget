@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://youtube.com/shorts/ff3jTdvP5ks?si=jF9DOeKJMRxutLfg" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/content/blob/main/header.gif" alt="Astronomy" height="315" width="545" /></a>
+<a href="https://youtube.com/shorts/ff3jTdvP5ks?si=jF9DOeKJMRxutLfg" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/content/blob/main/header.gif" alt="Astronomy" /></a>
 
 
 ##
