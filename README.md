@@ -53,13 +53,16 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32995396286751114035988550792975481396363927005753182805942965736422653296641" target="blank"><img align="center" src="https://dl.openseauserdata.com/cache/originImage/files/6f4de1d8401fb7d1621bff43cfada047.gif" alt="Shuv It vs Ollie NFT" height="115" width="245" /></a>
 
 #### [- Beat The Heat CarSeat ](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat)  Designed with C++ and Arduino.
-<img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Beat%20The%20Heat%20CarSeat/MAIN.jpeg" height="115" width="245" />
+<p align="left">
+<a href="https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Beat%20The%20Heat%20CarSeat/MAIN.jpeg" alt="Beat The Heat Carseat" height="115" width="245" /></a>
 
 
 
 
 
+<p align="left">
 <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Donate/bitcoin.png" alt="D.J. Gooden" height="135" width="145"/> 
+  
 Donate 
 
 
