@@ -57,16 +57,15 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 
 
 
-     
-##   
-# Donate
-<img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Donate/bitcoin.png" alt="D.J. Gooden" height="135" width="145"/>
 
 
+<img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Donate/bitcoin.png" alt="D.J. Gooden" height="135" width="145"/> 
+Donate 
 
 
 <!--- Bottom icons --->
 
+##
 <p align="right">
 <a href="https://www.linkedin.com/in/deah-jonae-g-a3a79b59/" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/linked-in-image.svg" alt="D.J. Gooden" height="30" width="40" /></a>
 <a href="https://www.blackgirlsskate.org/" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/bgs.png" alt="Black Girls Skate" height="40" width="40" /></a> 
@@ -74,6 +73,7 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 <a href="https://www.instagram.com/black.inspector.gadget?igsh=MWh0b2Q0b3N4cHc4Zg%3D%3D" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/instagram.svg" alt="D.J. Gooden" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/black_inspector_gadget" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/twitch%20logo.png" alt="Twitch" height="30" width="30" /></a> 
 <a href="https://www.hackster.io/Black_Inspector_Gadget/beat-the-heat-car-seat-a6ada0" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/hacksterio.png" alt="Beat The Heat Carseat" height="30" width="60" /></a> 
+
 
 
 <!---
