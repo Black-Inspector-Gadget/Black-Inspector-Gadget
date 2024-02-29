@@ -9,7 +9,10 @@
 - 🧑🏾‍💻 I’m interested in learning to code at the highest level!
 - 🐍 I’m currently learning/practicing Python!
 - 🧞 Pronouns: They, Them, Theirs
-- 🧾 Fun fact: Founder of Black Girls Skate. Inventor of "Beat The Heat Carseat", a project awarded by Intel and Hackster.io. 
+- 🧾 Fun fact: Founder of Black Girls Skate. Inventor of "Beat The Heat Carseat", a project awarded by Intel and Hackster.io.
+- [🔭 Amatuer Astronomer ](https://github.com/Black-Inspector-Gadget/profile_content/tree/main/Amatuer%20Astronomy) 
+<p align="left">
+<a href="https://github.com/Black-Inspector-Gadget/profile_content/tree/main/Amatuer%20Astronomy" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Amatuer%20Astronomy/Moonshot%201.jpg" alt="BGS APP" height="210" width="245" /></a>
   
 
 ##
