@@ -51,7 +51,7 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 ##   
 ### Projects
 
-#### [- Black Girls Skate: The App ](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate) Available on the Apple and Google App Store.  
+#### [- Black Girls Skate: The App ](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate) Available on the [Apple](https://apps.apple.com/us/app/black-girls-skate-inc/id6478607976) and [Google](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate)  App Store.  
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/bgs%20app.jpeg" alt="BGS APP" height="410" width="245" /></a>
 
