@@ -66,11 +66,21 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 
 
 
+Donate:
 
 <p align="left">
 <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Donate/bitcoin.png" alt="D.J. Gooden" height="135" width="245"/> 
   
-Donate 
+ 
+
+
+Resume:
+<p align="left">
+<a href="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/D.J.%20Gooden%20FULL%20Resume%20-%202024%20.pdf" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Resume.png" alt="D.J. Gooden"/></a>
+
+
+
+
 
 
 <!--- Bottom icons --->
@@ -83,6 +93,7 @@ Donate
 <a href="https://www.instagram.com/black.inspector.gadget?igsh=MWh0b2Q0b3N4cHc4Zg%3D%3D" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/instagram.svg" alt="D.J. Gooden" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/black_inspector_gadget" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/twitch%20logo.png" alt="Twitch" height="30" width="30" /></a> 
 <a href="https://www.hackster.io/Black_Inspector_Gadget/beat-the-heat-car-seat-a6ada0" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/hacksterio.png" alt="Beat The Heat Carseat" height="30" width="60" /></a> 
+
 
 
 
