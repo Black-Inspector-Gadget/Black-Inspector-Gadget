@@ -3,24 +3,32 @@
 
 
 ##
-### About
+### About:
 
 - 👋🏿 Hi, I’m D.J. Gooden a.k.a. @Black-Inspector-Gadget
-- 🧑🏾‍💻 I’m interested in learning to code at the highest level!
-- 🐍 I’m currently learning/practicing Python!
+- 🧑🏾‍💻 I’m interested in R&D, Hardware, and Software Design!
+- 🐍 I’m currently an engineer @ [Google](https://about.google/google-in-america/)!
 - 🧞 Pronouns: They, Them, Theirs
 - 🧾 Fun fact: Founder of Black Girls Skate. Inventor of "Beat The Heat Carseat", a project awarded by Intel and Hackster.io.
 - 🔭 [Amatuer Astronomer](https://github.com/Black-Inspector-Gadget/profile_content/tree/main/Amatuer%20Astronomy) 
 <p align="left">
 <a href="https://github.com/Black-Inspector-Gadget/profile_content/tree/main/Amatuer%20Astronomy" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Amatuer%20Astronomy/Moonshot%201.jpg" alt="BGS APP" height="210" width="245" /></a>
+
+
+##
+### Resume:
+<p align="left">
+<a href="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Short%20Copy%20of%20D.J.%20Gooden%20Resume.pdf" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Resume.png" alt="D.J. Gooden"/></a>
+
+
   
 
 ##
-### Bio
+### Bio:
 Engineer with concrete understanding of circuit theory, computer architecture, and hardware/software design. Background includes computer engineering, robotics, and mathematics. Exceptionally detail-oriented and energetic. Possess the diverse, analytical, and technical abilities required for engineering innovative, and responsible solutions, as well as advanced problem solving and interpersonal skills. Founder of Black Girls Skate, a non-profit devoted to creating equity, visibility and safety for skaters who identify as Black, African, or Of Color and/or women, differently-abled, or LGBTQ+. Black Girls Skate is specifically invested in amplifying skaters across the Black diaspora with skating activities that include skateboarding, longboarding, roller skating, wcmx, adaptive skating, and ice skating.
 
 ##
-### Languages
+### Languages:
 
 <p align="left">
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/html.svg" alt="html" style="vertical-align:top; margin:4px">    
@@ -29,7 +37,7 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
   
 
 ##
-### Skills
+### Skills:
 
   <p align="left">
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
@@ -39,7 +47,7 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 
 
 ##
-### Other Skills
+### Other Skills:
 
  <p align="left">
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/c.svg" alt="c" style="vertical-align:top; margin:4px">
@@ -49,7 +57,7 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 
 
 ##   
-### Projects
+### Projects:
 
 #### [- Black Girls Skate: The App ](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate) Available on the [Apple](https://apps.apple.com/us/app/black-girls-skate-inc/id6478607976) and [Google](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate)  App Store.  
 <p align="left">
@@ -66,7 +74,8 @@ Engineer with concrete understanding of circuit theory, computer architecture, a
 
 
 
-Donate:
+##   
+### Donate:
 
 <p align="left">
 <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Donate/bitcoin.png" alt="D.J. Gooden" height="135" width="245"/> 
@@ -74,9 +83,6 @@ Donate:
  
 
 
-Resume:
-<p align="left">
-<a href="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Short%20Copy%20of%20D.J.%20Gooden%20Resume.pdf" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Resume.png" alt="D.J. Gooden"/></a>
 
 
 
