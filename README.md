@@ -6,7 +6,7 @@
 ### About:
 
 - 👋🏿 Hi, I’m D.J. Gooden a.k.a. @Black-Inspector-Gadget
-- 🧑🏾‍🔬 I have a keen interest in research and development (R&D) particularly within the realms of medical and bio devices, hardware, and software design.
+- 🧑🏾‍🔬 I am passionate about Accessibility! All identities, all abilities! I have a keen interest in research and development (R&D) particularly within the realms of medical and bio devices, hardware, and software design.
 - 🧑🏾‍💻 I’m currently an engineer @ [Google](https://about.google/google-in-america/)!
 - 🧞 Pronouns: They, Them, Theirs
 - 🧾 Fun fact: Founder of Black Girls Skate. Inventor of "Beat The Heat Carseat", a project awarded by Intel and Hackster.io. See more information below!
