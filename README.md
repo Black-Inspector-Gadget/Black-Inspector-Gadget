@@ -26,7 +26,7 @@
 
 ##
 ### Bio:
-Engineer with concrete understanding of circuit theory, computer architecture, and hardware/software design. Background includes computer engineering, robotics, and mathematics. Exceptionally detail-oriented and energetic. Possess the diverse, analytical, and technical abilities required for engineering innovative, and responsible solutions, as well as advanced problem solving and interpersonal skills. Founder of Black Girls Skate, a non-profit devoted to creating equity, visibility and safety for skaters who identify as Black, African, or Of Color and/or women, differently-abled, or LGBTQ+. Black Girls Skate is specifically invested in amplifying skaters across the Black diaspora with skating activities that include skateboarding, longboarding, roller skating, wcmx, adaptive skating, and ice skating.
+Engineer with concrete understanding of circuit theory, computer architecture, app development and hardware/software design. Background includes computer engineering, robotics, and mathematics. Exceptionally detail-oriented and energetic. Possess the diverse, analytical, and technical abilities crucial for engineering innovative and responsible solutions. Advanced problem solving and interpersonal skills. Founder of Black Girls Skate, a non-profit devoted to creating equity, visibility and safety for skaters who identify as Black, African, or Of Color and/or women, differently-abled, or LGBTQ+. Black Girls Skate is specifically invested in amplifying skaters across the Black diaspora with skating activities that include skateboarding, longboarding, roller skating, wcmx, adaptive skating, and ice skating.
 
 ##
 ### Languages:
