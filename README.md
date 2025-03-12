@@ -19,7 +19,7 @@
 ##
 ### Resume: Click for more details
 <p align="left">
-<a href="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/D.J.%20Gooden%20Short%20Resume%202025.pdf" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/resume.png" alt="D.J. Gooden"/></a>
+<a href="https://drive.google.com/file/d/1x5u8B4CDVQGaYNBGgeylUriFCwsCT8A1/view?usp=sharing" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/resume.png" alt="D.J. Gooden"/></a>
 
 
   
