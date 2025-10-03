@@ -4,12 +4,13 @@
 
 ##
 ### About:
+Engineer with concrete understanding of project management, integration, computer architecture, development and hardware/software design. Background includes computer, network, and integration engineering, robotics, mathematics, and client solutions. Exceptionally detail-oriented and energetic. Possess the diverse, analytical, and technical abilities crucial for engineering innovative and responsible solutions.
 
 - 👋🏿 Hi, I’m D.J. Gooden a.k.a. @Black-Inspector-Gadget
 - 🧑🏾‍🔬 I am passionate about Accessibility! All identities, all abilities!
-- 🧑🏾‍💻 I’m currently an engineer @ [Google](https://about.google/google-in-america/)!
+- 🧑🏾‍💻 I’m currently a Solutions Consolutant @ [Google](https://about.google/google-in-america/)!
 - 🧞 Pronouns: They, Them, Theirs
-- 🧾 Fun fact: Founder of Black Girls Skate. Inventor of "Beat The Heat Carseat", a project awarded by Intel and Hackster.io. See more information below!
+- 🧾 Fun fact: Founder of Black Girls Skate. Inventor of "Project Storm" and "Beat The Heat Carseat". See more information below!
 - 😎 A quote: "You won't find, a command line cooler than mine!" 
 - 🔭 [Amatuer Astronomer](https://github.com/Black-Inspector-Gadget/profile_content/tree/main/Amatuer%20Astronomy) 
 <p align="left">
@@ -22,11 +23,6 @@
 <a href="https://drive.google.com/file/d/1MFR49luNaweDHg7ILrBmLeWizaE0jaP7/view?usp=drive_link" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Deah%20Jonae%20(DJ)%20Gooden%20pic.png" alt="D.J. Gooden"/></a>
 
 
-  
-
-##
-### Bio:
-Engineer with concrete understanding of project management, integration, computer architecture, development and hardware/software design. Background includes computer, network, and integration engineering, robotics, mathematics, and client solutions. Exceptionally detail-oriented and energetic. Possess the diverse, analytical, and technical abilities crucial for engineering innovative and responsible solutions. Advanced problem solving and interpersonal skills.
 
 ##
 ### Languages:
