@@ -19,7 +19,7 @@
 ##
 ### Resume: Click for more details
 <p align="left">
-<a href="https://drive.google.com/file/d/1MFR49luNaweDHg7ILrBmLeWizaE0jaP7/view?usp=drive_link" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/resume.png" alt="D.J. Gooden"/></a>
+<a href="https://drive.google.com/file/d/1MFR49luNaweDHg7ILrBmLeWizaE0jaP7/view?usp=drive_link" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Deah%20Jonae%20(DJ)%20Gooden%20pic.png" alt="D.J. Gooden"/></a>
 
 
   
