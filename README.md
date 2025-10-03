@@ -59,11 +59,17 @@ Engineer with concrete understanding of project management, integration, compute
 
 ##   
 ### Personal Projects:
-#### [- Beat The Heat CarSeat ](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat)  Designed with C++ and Arduino.
+#### [- Project Storm ](https://notebooklm.google.com/notebook/c854ac82-267d-41a9-ba07-1796598deabc)  
+Accomplished the creation of a centralized, comprehensive support platform for the epilepsy community, as measured by designing and launching "Project Storm," an AI-driven tool and documentation suite, by empowering individuals and caregivers with critical resources for management and safety.
+
+
+#### [- Beat The Heat CarSeat ](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat)  
+Accomplished national recognition for innovative public safety design, as measured by achieving US Semi-Finalist status in the 2017 'Co-Making the Future' contest, by designing a smart, automatic car seat system to prevent preventable heatstroke and injury.Designed with C++ and Arduino.
 <p align="left">
 <a href="https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Beat%20The%20Heat%20CarSeat/MAIN.jpeg" alt="Beat The Heat Carseat" height="115" width="245" /></a>
 
-#### [- Black Girls Skate: The App ](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate) Available on the [Apple](https://apps.apple.com/us/app/black-girls-skate-inc/id6478607976) and [Google](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate)  App Store.  
+#### [- Black Girls Skate: The App ](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate) Available on the [Apple](https://apps.apple.com/us/app/black-girls-skate-inc/id6478607976) and [Google](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate)  App Store. 
+Accomplished the development and launch of a global organizational growth tool, as measured by implementing an industry-wide application for skaters worldwide, by designing the user interface/experience (UI/UX) for a mobile app connecting skaters with key features (local meetups,career listings, funding, and resources).  
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/bgs%20app.jpeg" alt="BGS APP" height="410" width="245" /></a>
 
