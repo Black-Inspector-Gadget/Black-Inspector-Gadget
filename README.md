@@ -55,7 +55,7 @@ Engineer with concrete understanding of project management, integration, compute
 
 ##   
 ### Personal Projects:
-#### [- Project Storm ](https://notebooklm.google.com/notebook/c854ac82-267d-41a9-ba07-1796598deabc)  
+#### [- Project Storm ](https://sites.google.com/view/project-storm-epilepsy/home)  
 Accomplished the creation of a centralized, comprehensive support platform for the epilepsy community, as measured by designing and launching "Project Storm," an AI-driven tool and documentation suite, by empowering individuals and caregivers with critical resources for management and safety.
 
 
