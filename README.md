@@ -65,7 +65,7 @@ Accomplished national recognition for innovative public safety design, as measur
 <p align="left">
 <a href="https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Beat%20The%20Heat%20CarSeat/MAIN.jpeg" alt="Beat The Heat Carseat" height="115" width="245" /></a>
 
-#### [- Black Girls Skate: The App ](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate) Available on the [Apple](https://apps.apple.com/us/app/black-girls-skate-inc/id6478607976) and [Google](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate)  App Store. 
+#### [- Black Girls Skate: The App ](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate) 
 Accomplished the development and launch of a global organizational growth tool, as measured by implementing an industry-wide application for skaters worldwide, by designing the user interface/experience (UI/UX) for a mobile app connecting skaters with key features (local meetups,career listings, funding, and resources).  
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/bgs%20app.jpeg" alt="BGS APP" height="410" width="245" /></a>
