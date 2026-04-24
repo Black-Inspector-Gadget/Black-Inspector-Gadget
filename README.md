@@ -72,7 +72,7 @@ Accomplished the development and launch of a global organizational growth tool, 
 
 #### [- 'Shuv It' vs 'Ollie' NFT: Illustration ](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32995396286751114035988550792975481396363927005753182805942965736422653296641) Designed with Unity. Available on OpenSea.  
 <p align="left">
-<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32995396286751114035988550792975481396363927005753182805942965736422653296641" target="blank"><img align="center" src="https://dl.openseauserdata.com/cache/originImage/files/6f4de1d8401fb7d1621bff43cfada047.gif" alt="Shuv It vs Ollie NFT" height="115" width="245" /></a>
+<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32995396286751114035988550792975481396363927005753182805942965736422653296641" target="blank"><img align="center" src="https://dl.openseauserdata.com/cache/originImage/files/6f4de1d8401fb7d1621bff43cfada047.gif" alt="Shuv It vs Ollie NFT" height="115" width="245"/></a>
 
 
 
