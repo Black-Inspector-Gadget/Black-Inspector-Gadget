@@ -9,7 +9,6 @@ Engineer with concrete understanding of project management, integration, compute
 
 - 👋🏿 Hi, I’m D.J. Gooden a.k.a. @Black-Inspector-Gadget [More Info](https://sites.google.com/view/deahjonaegooden)!
 - 🧑🏾‍🔬 I am passionate about Accessibility! All identities, all abilities!
-- 🧑🏾‍💻 I’m currently a Solutions Consolutant @ [Google](https://about.google/google-in-america/)!
 - 🧞 Pronouns: They, Them, Theirs
 - 🧾 Fun fact: Founder of Black Girls Skate. Inventor of "Project Storm" and "Beat The Heat Carseat". See more information below!
 - 😎 A quote: "You won't find, a command line cooler than mine!" 
