@@ -4,10 +4,11 @@
 
 ##
 ### About:
+[Portfolio](https://black-inspector-gadget.github.io/dj-app/)!
 Engineer with concrete understanding of project management, integration, computer architecture, development and hardware/software design. Solutions-oriented Engineer with over a decade of experience spanning Google’s global infrastructure and full-stack internal tool development. Expert at navigating high-ambiguity environments to translate fragmented business requirements into scalable, automated technical solutions. Proven track record of reducing operational workflows from hours to minutes and managing the full lifecycle of hardware, network, and software integration. A dual-threat technical leader who combines deep analytical rigor with a commitment to building diverse, innovative, and responsible technology.
 
 
-- 👋🏿 Hi, I’m D.J. Gooden a.k.a. @Black-Inspector-Gadget [More Info](https://sites.google.com/view/deahjonaegooden)!
+- 👋🏿 Hi, I’m D.J. Gooden a.k.a. @Black-Inspector-Gadget [More Info](https://black-inspector-gadget.github.io/dj-app/)!
 - 🧑🏾‍🔬 I am passionate about Accessibility! All identities, all abilities!
 - 🧞 Pronouns: They, Them, Theirs
 - 🧾 Fun fact: Founder of Black Girls Skate. Inventor of "Project Storm" and "Beat The Heat Carseat". See more information below!
