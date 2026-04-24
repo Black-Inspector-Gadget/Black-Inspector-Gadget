@@ -59,16 +59,16 @@ Engineer with concrete understanding of project management, integration, compute
 #### [- Project Storm ](https://sites.google.com/view/project-storm-epilepsy/home)  
 Designer: The purpose of this tool is to empower those living with or caring for people with Epilepsy also known as recurring seizures. Accomplished the creation of a centralized, comprehensive support platform for the epilepsy community, as measured by designing and launching "Project Storm," an AI-driven tool and documentation suite, by empowering individuals and caregivers with critical resources for management and safety.
 
+#### [- Black Girls Skate: Website & App ](https://www.blackgirlsskate.org/) 
+Founder and Technical Program Manger: Accomplished the development and launch of a global organizational website, and growth tool, as measured by implementing an industry-wide application for skaters worldwide, by designing the user interface/experience (UI/UX) for a mobile app and website connecting skaters with key features (local meetups, career listings, funding, and resources). 
+<p align="left">
+<a href="https://www.blackgirlsskate.org/" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/bgs%20app.jpeg" alt="BGS APP" height="410" width="245" /></a>
 
 #### [- Beat The Heat CarSeat ](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat)  
 Accomplished national recognition for innovative public safety design, as measured by achieving US Semi-Finalist status in the 2017 'Co-Making the Future' contest, by designing a smart, automatic car seat system to prevent preventable heatstroke and injury.Designed with C++ and Arduino.
 <p align="left">
 <a href="https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Beat%20The%20Heat%20CarSeat/MAIN.jpeg" alt="Beat The Heat Carseat" height="115" width="245" /></a>
 
-#### [- Black Girls Skate: The App ](https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate) 
-Founder and Technical Program Manger: Accomplished the development and launch of a global organizational website, and growth tool, as measured by implementing an industry-wide application for skaters worldwide, by designing the user interface/experience (UI/UX) for a mobile app and website connecting skaters with key features (local meetups, career listings, funding, and resources). 
-<p align="left">
-<a href="https://play.google.com/store/apps/details?id=branded.org.blackgirlsskate" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/bgs%20app.jpeg" alt="BGS APP" height="410" width="245" /></a>
 
 #### [- 'Shuv It' vs 'Ollie' NFT: Illustration ](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32995396286751114035988550792975481396363927005753182805942965736422653296641) Designed with Unity. Available on OpenSea.  
 <p align="left">
