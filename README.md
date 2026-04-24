@@ -20,7 +20,7 @@ Engineer with concrete understanding of project management, integration, compute
 ##
 ### Resume: Click for more details
 <p align="left">
-<a href="https://sites.google.com/view/deahjonaegooden/resume" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/DJ_s%20Resume%20GitHub%20pic.png" alt="D.J. Gooden"/></a>
+<a href="https://sites.google.com/view/deahjonaegooden/resume" target="blank"><img align="center" src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/resume%20pic.png" alt="D.J. Gooden"/></a>
 
 
 
