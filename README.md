@@ -76,14 +76,6 @@ Accomplished national recognition for innovative public safety design, as measur
 
 
 
-
-
-##   
-### Donate:
-
-<p align="left">
-<img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/Donate/bitcoin.png" alt="D.J. Gooden" height="135" width="245"/> 
-  
  
 
 
