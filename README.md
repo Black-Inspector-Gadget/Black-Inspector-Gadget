@@ -37,7 +37,7 @@ Engineer with concrete understanding of project management, integration, compute
 
 ##
 ### Skills:
-[All Skills](https://black-inspector-gadget.github.io/dj-app/#skills)
+[All Skills](https://black-inspector-gadget.github.io/dj-app/)
 
 
 
