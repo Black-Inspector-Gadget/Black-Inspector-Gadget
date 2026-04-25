@@ -57,7 +57,7 @@ Engineer with concrete understanding of project management, integration, compute
 
 ##   
 ### Personal Projects:
-#### [- Project Storm ](https://sites.google.com/view/project-storm-epilepsy/home)  
+#### [- Project Storm ](https://black-inspector-gadget.github.io/Project_Storm/)  
 Designer: The purpose of this tool is to empower those living with or caring for people with Epilepsy also known as recurring seizures. Accomplished the creation of a centralized, comprehensive support platform for the epilepsy community, as measured by designing and launching "Project Storm," an AI-driven tool and documentation suite, by empowering individuals and caregivers with critical resources for management and safety.
 
 #### [- Black Girls Skate: Website & App ](https://www.blackgirlsskate.org/) 
