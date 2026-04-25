@@ -43,11 +43,6 @@ Engineer with concrete understanding of project management, integration, compute
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
-
-##
-### Other Skills:
-
  <p align="left">
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/c.svg" alt="c" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Black-Inspector-Gadget/profile_content/blob/main/c%2B%2B.svg" alt="c++" style="vertical-align:top; margin:4px">  
